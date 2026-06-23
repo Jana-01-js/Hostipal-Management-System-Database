@@ -50,7 +50,7 @@ Installation
 
 1. Clone the repository:
    
-   git clone https://github.com/your-username/Hospital-Management-System.git
+   git clone https://github.com/janarthananr/Hospital-Management-System.git
 
 2. Open MySQL Workbench or any MySQL client.
 
