@@ -1,0 +1,41 @@
+MySQL temporary files
+
+*.sql~
+*.bak
+*.tmp
+
+Logs
+
+*.log
+
+OS generated files
+
+.DS_Store
+Thumbs.db
+
+IDE files
+
+.vscode/
+.idea/
+
+MySQL Workbench files
+
+*.mwb.bak
+
+Environment files
+
+.env
+
+Python cache (if you later add Python backend)
+
+pycache/
+*.pyc
+
+Node modules (if you later add frontend/backend)
+
+node_modules/
+
+Build directories
+
+dist/
+build/
